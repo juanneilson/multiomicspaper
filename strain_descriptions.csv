@@ -1,0 +1,4 @@
+Part ID, Strain Name, Strain Description, Media, Shaking Speed, Starting OD, Culture Volume, Flask Volume, Growth Temperature, Replicate Count
+ABF_001327, WT, KEIO wild type, M9, 1, 0.1, 50, 200, 30, 1
+ABF_001327, 1, accoc_1_mdh_1_ptar_2_cs_0_acact1r_2_ppc_0_ppck_0_pfl_0, M9, 1, 0.1, 50, 200, 30, 1
+ABF_001327, 2, accoc_1_mdh_1_ptar_2_cs_0_acact1r_2_ppc_0_ppck_0_pfl_0, M9, 1, 0.1, 50, 200, 30, 1
