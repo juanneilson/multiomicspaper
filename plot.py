@@ -1,4 +1,3 @@
-import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -9,8 +8,8 @@ def plot_distribution_of_designs(df):
     bar_height = 1
     labels = ['KO', 'NoMod', 'UP']
     colors = ['#019600', 'grey', '#219AD8']
-    
-    sns.set_style("white")
+        
+    plt.style.use('seaborn-white')
     
     dataframe = df.copy()
     reactions = dataframe.columns
@@ -56,3 +55,13 @@ def plot_distribution_of_designs(df):
     ax.invert_yaxis()
     ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
     plt.show()
+    
+    
+def plot_DO_extmets(od,ext_metabolites):
+    fig, ax = plt.subplots(figsize=(12,4), ncols=2, nrows=1)
+    od.plot(ax=ax[0], style='s-', title='Cell', label='dcw', legend=True)
+    ax[0].set_xlabel("Hour")
+    ax[0].set_ylabel("Concentration [gDW/L]")
+    ext_metabolites.plot(ax=ax[1], style='o-', title='External Metabolites')
+    ax[1].set_xlabel("Hour")
+    ax[1].set_ylabel("Concentration [mM]")
