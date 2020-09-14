@@ -65,3 +65,69 @@ def plot_DO_extmets(od,ext_metabolites):
     ext_metabolites.plot(ax=ax[1], style='o-', title='External Metabolites')
     ax[1].set_xlabel("Hour")
     ax[1].set_ylabel("Concentration [mM]")
+    
+    
+def predictions_vs_observations(df, errorbars_flag=True, xlim=None, ylim=None):
+    """Function addapted from the ART package.
+    
+    Plots the predictions of a machine learning model.
+
+    Create a scatter plot of machine learning model predictions vs.
+    actual values from the data set along with a diagonal line showing
+    where perfect agreement would be.
+    """
+
+    
+    plt.style.use('seaborn-darkgrid')
+
+    fontsize = 20
+
+    predicted_mean = df['Mean predicted Isoprenol [mg/L]']
+    predicted_std = df['SD Isoprenol [mg/L]']
+
+    observed = df['Isoprenol [mg/L]']
+
+    fig, ax = plt.subplots(figsize=(7, 7))
+
+    # Plot Scatter Plot
+    if errorbars_flag:
+        plt.errorbar(observed, predicted_mean, yerr=1.96*predicted_std, fmt='ko',
+                     ecolor='gray', elinewidth=1, alpha=0.8)
+    else:
+        plt.scatter(observed, predicted_mean, color='k')
+        
+
+    # TODO: CALCULATE R^2        
+#     r2 = round(model_df['$R^2$']['Ensemble Model'], 2)
+#     mae_score = round(model_df['MAE']['Ensemble Model'], 2)
+#     ax.set_title(f'$R^2$={r2}, MAE={mae_score}', fontsize=fontsize)
+    
+    ax.set_xlabel('Observations', fontsize=fontsize)
+    ax.set_ylabel('Predictions', fontsize=fontsize)
+
+    lims = [np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
+            np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
+            ]
+
+    if xlim is None:
+        ax.set_xlim(lims)
+    else:
+        ax.set_xlim(xlim)
+
+    if ylim is None:
+        ax.set_ylim(lims)
+    else:
+        ax.set_ylim(ylim)
+
+    lims = [np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
+            np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
+            ]
+
+    # Plot Diagonal Dashed Line
+    ax.plot(lims, lims, ls='--', color='.8', zorder=0)
+
+    plt.tick_params(axis='both', which='major', labelsize=fontsize)
+    plt.show()
+
+    fig.savefig('../data/predictions_vs_observations_recommendations.png',
+                    bbox_inches='tight', transparent=False, dpi=300)
