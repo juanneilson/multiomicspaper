@@ -82,10 +82,10 @@ def predictions_vs_observations(df, errorbars_flag=True, xlim=None, ylim=None):
 
     fontsize = 20
 
-    predicted_mean = df['Mean predicted Isoprenol [mg/L]']
-    predicted_std = df['SD Isoprenol [mg/L]']
+    predicted_mean = df['Mean predicted Isoprenol [mM]']
+    predicted_std = df['SD Isoprenol [mM]']
 
-    observed = df['Isoprenol [mg/L]']
+    observed = df['Isoprenol [mM]']
 
     fig, ax = plt.subplots(figsize=(7, 7))
 
