@@ -85,7 +85,7 @@ def predictions_vs_observations(df, errorbars_flag=True, xlim=None, ylim=None):
     predicted_mean = df['Mean predicted Isoprenol [mM]']
     predicted_std = df['SD Isoprenol [mM]']
 
-    observed = df['Isoprenol [mM]']
+    observed = df['Actual Isoprenol [mM]']
 
     fig, ax = plt.subplots(figsize=(7, 7))
 
@@ -129,5 +129,5 @@ def predictions_vs_observations(df, errorbars_flag=True, xlim=None, ylim=None):
     plt.tick_params(axis='both', which='major', labelsize=fontsize)
     plt.show()
 
-    fig.savefig('../data/predictions_vs_observations_recommendations.png',
+    fig.savefig('../data/ART_predictions_vs_observations_recommendations.png',
                     bbox_inches='tight', transparent=False, dpi=300)
