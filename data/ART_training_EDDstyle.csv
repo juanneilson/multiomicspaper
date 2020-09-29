@@ -1,5 +1,5 @@
 Line Name,Measurement Type,Value
-Strain 1,isopentenyl diphosphate(3-),0.0
+Strain 1,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 1,ACCOAC,1.0
 Strain 1,MDH,1.0
 Strain 1,PTAr,2.0
@@ -8,7 +8,7 @@ Strain 1,ACACT1r,2.0
 Strain 1,PPC,0.0
 Strain 1,PPCK,0.0
 Strain 1,PFL,0.0
-Strain 2,isopentenyl diphosphate(3-),0.5521
+Strain 2,3-METHYL-3-BUTEN-1-OL,0.5521
 Strain 2,ACCOAC,1.0
 Strain 2,MDH,2.0
 Strain 2,PTAr,2.0
@@ -17,7 +17,7 @@ Strain 2,ACACT1r,2.0
 Strain 2,PPC,1.0
 Strain 2,PPCK,1.0
 Strain 2,PFL,0.0
-Strain 3,isopentenyl diphosphate(3-),0.3492
+Strain 3,3-METHYL-3-BUTEN-1-OL,0.3492
 Strain 3,ACCOAC,1.0
 Strain 3,MDH,0.0
 Strain 3,PTAr,0.0
@@ -26,7 +26,7 @@ Strain 3,ACACT1r,1.0
 Strain 3,PPC,1.0
 Strain 3,PPCK,2.0
 Strain 3,PFL,0.0
-Strain 4,isopentenyl diphosphate(3-),0.55185
+Strain 4,3-METHYL-3-BUTEN-1-OL,0.55185
 Strain 4,ACCOAC,1.0
 Strain 4,MDH,1.0
 Strain 4,PTAr,1.0
@@ -35,7 +35,7 @@ Strain 4,ACACT1r,2.0
 Strain 4,PPC,2.0
 Strain 4,PPCK,1.0
 Strain 4,PFL,0.0
-Strain 5,isopentenyl diphosphate(3-),0.08012000000000001
+Strain 5,3-METHYL-3-BUTEN-1-OL,0.08012000000000001
 Strain 5,ACCOAC,2.0
 Strain 5,MDH,0.0
 Strain 5,PTAr,2.0
@@ -44,7 +44,7 @@ Strain 5,ACACT1r,1.0
 Strain 5,PPC,0.0
 Strain 5,PPCK,1.0
 Strain 5,PFL,1.0
-Strain 6,isopentenyl diphosphate(3-),0.07865
+Strain 6,3-METHYL-3-BUTEN-1-OL,0.07865
 Strain 6,ACCOAC,2.0
 Strain 6,MDH,0.0
 Strain 6,PTAr,0.0
@@ -53,7 +53,7 @@ Strain 6,ACACT1r,2.0
 Strain 6,PPC,0.0
 Strain 6,PPCK,1.0
 Strain 6,PFL,0.0
-Strain 7,isopentenyl diphosphate(3-),0.57265
+Strain 7,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 7,ACCOAC,2.0
 Strain 7,MDH,1.0
 Strain 7,PTAr,2.0
@@ -62,7 +62,7 @@ Strain 7,ACACT1r,2.0
 Strain 7,PPC,2.0
 Strain 7,PPCK,0.0
 Strain 7,PFL,2.0
-Strain 8,isopentenyl diphosphate(3-),0.1119
+Strain 8,3-METHYL-3-BUTEN-1-OL,0.1119
 Strain 8,ACCOAC,1.0
 Strain 8,MDH,1.0
 Strain 8,PTAr,0.0
@@ -71,7 +71,7 @@ Strain 8,ACACT1r,2.0
 Strain 8,PPC,0.0
 Strain 8,PPCK,0.0
 Strain 8,PFL,0.0
-Strain 9,isopentenyl diphosphate(3-),0.0
+Strain 9,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 9,ACCOAC,2.0
 Strain 9,MDH,1.0
 Strain 9,PTAr,2.0
@@ -80,7 +80,7 @@ Strain 9,ACACT1r,0.0
 Strain 9,PPC,0.0
 Strain 9,PPCK,0.0
 Strain 9,PFL,2.0
-Strain 10,isopentenyl diphosphate(3-),0.0
+Strain 10,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 10,ACCOAC,2.0
 Strain 10,MDH,2.0
 Strain 10,PTAr,2.0
@@ -89,7 +89,7 @@ Strain 10,ACACT1r,1.0
 Strain 10,PPC,0.0
 Strain 10,PPCK,2.0
 Strain 10,PFL,0.0
-Strain 11,isopentenyl diphosphate(3-),0.0
+Strain 11,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 11,ACCOAC,0.0
 Strain 11,MDH,1.0
 Strain 11,PTAr,2.0
@@ -98,7 +98,7 @@ Strain 11,ACACT1r,1.0
 Strain 11,PPC,2.0
 Strain 11,PPCK,0.0
 Strain 11,PFL,0.0
-Strain 12,isopentenyl diphosphate(3-),0.0
+Strain 12,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 12,ACCOAC,1.0
 Strain 12,MDH,2.0
 Strain 12,PTAr,1.0
@@ -107,7 +107,7 @@ Strain 12,ACACT1r,2.0
 Strain 12,PPC,2.0
 Strain 12,PPCK,2.0
 Strain 12,PFL,1.0
-Strain 13,isopentenyl diphosphate(3-),0.0
+Strain 13,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 13,ACCOAC,1.0
 Strain 13,MDH,2.0
 Strain 13,PTAr,1.0
@@ -116,7 +116,7 @@ Strain 13,ACACT1r,0.0
 Strain 13,PPC,0.0
 Strain 13,PPCK,2.0
 Strain 13,PFL,2.0
-Strain 14,isopentenyl diphosphate(3-),0.0
+Strain 14,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 14,ACCOAC,2.0
 Strain 14,MDH,2.0
 Strain 14,PTAr,1.0
@@ -125,7 +125,7 @@ Strain 14,ACACT1r,0.0
 Strain 14,PPC,2.0
 Strain 14,PPCK,2.0
 Strain 14,PFL,2.0
-Strain 15,isopentenyl diphosphate(3-),0.0
+Strain 15,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 15,ACCOAC,1.0
 Strain 15,MDH,1.0
 Strain 15,PTAr,2.0
@@ -134,7 +134,7 @@ Strain 15,ACACT1r,2.0
 Strain 15,PPC,1.0
 Strain 15,PPCK,2.0
 Strain 15,PFL,1.0
-Strain 16,isopentenyl diphosphate(3-),0.0
+Strain 16,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 16,ACCOAC,1.0
 Strain 16,MDH,1.0
 Strain 16,PTAr,2.0
@@ -143,7 +143,7 @@ Strain 16,ACACT1r,2.0
 Strain 16,PPC,2.0
 Strain 16,PPCK,0.0
 Strain 16,PFL,0.0
-Strain 17,isopentenyl diphosphate(3-),0.4951
+Strain 17,3-METHYL-3-BUTEN-1-OL,0.4951
 Strain 17,ACCOAC,2.0
 Strain 17,MDH,2.0
 Strain 17,PTAr,0.0
@@ -152,7 +152,7 @@ Strain 17,ACACT1r,2.0
 Strain 17,PPC,2.0
 Strain 17,PPCK,0.0
 Strain 17,PFL,2.0
-Strain 18,isopentenyl diphosphate(3-),0.0
+Strain 18,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 18,ACCOAC,2.0
 Strain 18,MDH,2.0
 Strain 18,PTAr,1.0
@@ -161,7 +161,7 @@ Strain 18,ACACT1r,0.0
 Strain 18,PPC,2.0
 Strain 18,PPCK,1.0
 Strain 18,PFL,2.0
-Strain 19,isopentenyl diphosphate(3-),0.0
+Strain 19,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 19,ACCOAC,2.0
 Strain 19,MDH,0.0
 Strain 19,PTAr,1.0
@@ -170,7 +170,7 @@ Strain 19,ACACT1r,1.0
 Strain 19,PPC,0.0
 Strain 19,PPCK,0.0
 Strain 19,PFL,1.0
-Strain 20,isopentenyl diphosphate(3-),0.0
+Strain 20,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 20,ACCOAC,1.0
 Strain 20,MDH,1.0
 Strain 20,PTAr,1.0
@@ -179,7 +179,7 @@ Strain 20,ACACT1r,1.0
 Strain 20,PPC,2.0
 Strain 20,PPCK,2.0
 Strain 20,PFL,0.0
-Strain 21,isopentenyl diphosphate(3-),0.0
+Strain 21,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 21,ACCOAC,0.0
 Strain 21,MDH,2.0
 Strain 21,PTAr,1.0
@@ -188,7 +188,7 @@ Strain 21,ACACT1r,0.0
 Strain 21,PPC,1.0
 Strain 21,PPCK,1.0
 Strain 21,PFL,2.0
-Strain 22,isopentenyl diphosphate(3-),0.10777
+Strain 22,3-METHYL-3-BUTEN-1-OL,0.10777
 Strain 22,ACCOAC,2.0
 Strain 22,MDH,2.0
 Strain 22,PTAr,1.0
@@ -197,7 +197,7 @@ Strain 22,ACACT1r,1.0
 Strain 22,PPC,0.0
 Strain 22,PPCK,2.0
 Strain 22,PFL,1.0
-Strain 23,isopentenyl diphosphate(3-),0.0
+Strain 23,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 23,ACCOAC,0.0
 Strain 23,MDH,1.0
 Strain 23,PTAr,2.0
@@ -206,7 +206,7 @@ Strain 23,ACACT1r,2.0
 Strain 23,PPC,1.0
 Strain 23,PPCK,1.0
 Strain 23,PFL,2.0
-Strain 24,isopentenyl diphosphate(3-),0.0
+Strain 24,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 24,ACCOAC,0.0
 Strain 24,MDH,0.0
 Strain 24,PTAr,0.0
@@ -215,7 +215,7 @@ Strain 24,ACACT1r,2.0
 Strain 24,PPC,2.0
 Strain 24,PPCK,1.0
 Strain 24,PFL,1.0
-Strain 25,isopentenyl diphosphate(3-),0.0
+Strain 25,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 25,ACCOAC,0.0
 Strain 25,MDH,0.0
 Strain 25,PTAr,2.0
@@ -224,7 +224,7 @@ Strain 25,ACACT1r,2.0
 Strain 25,PPC,2.0
 Strain 25,PPCK,0.0
 Strain 25,PFL,2.0
-Strain 26,isopentenyl diphosphate(3-),0.0
+Strain 26,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 26,ACCOAC,1.0
 Strain 26,MDH,2.0
 Strain 26,PTAr,0.0
@@ -233,7 +233,7 @@ Strain 26,ACACT1r,1.0
 Strain 26,PPC,2.0
 Strain 26,PPCK,0.0
 Strain 26,PFL,0.0
-Strain 27,isopentenyl diphosphate(3-),0.0
+Strain 27,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 27,ACCOAC,1.0
 Strain 27,MDH,1.0
 Strain 27,PTAr,1.0
@@ -242,7 +242,7 @@ Strain 27,ACACT1r,0.0
 Strain 27,PPC,1.0
 Strain 27,PPCK,0.0
 Strain 27,PFL,1.0
-Strain 28,isopentenyl diphosphate(3-),0.0
+Strain 28,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 28,ACCOAC,0.0
 Strain 28,MDH,0.0
 Strain 28,PTAr,0.0
@@ -251,7 +251,7 @@ Strain 28,ACACT1r,2.0
 Strain 28,PPC,0.0
 Strain 28,PPCK,0.0
 Strain 28,PFL,0.0
-Strain 29,isopentenyl diphosphate(3-),0.0
+Strain 29,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 29,ACCOAC,0.0
 Strain 29,MDH,0.0
 Strain 29,PTAr,0.0
@@ -260,7 +260,7 @@ Strain 29,ACACT1r,0.0
 Strain 29,PPC,0.0
 Strain 29,PPCK,2.0
 Strain 29,PFL,0.0
-Strain 30,isopentenyl diphosphate(3-),0.08715
+Strain 30,3-METHYL-3-BUTEN-1-OL,0.08715
 Strain 30,ACCOAC,1.0
 Strain 30,MDH,0.0
 Strain 30,PTAr,0.0
@@ -269,7 +269,7 @@ Strain 30,ACACT1r,2.0
 Strain 30,PPC,0.0
 Strain 30,PPCK,1.0
 Strain 30,PFL,1.0
-Strain 31,isopentenyl diphosphate(3-),0.0
+Strain 31,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 31,ACCOAC,0.0
 Strain 31,MDH,2.0
 Strain 31,PTAr,1.0
@@ -278,7 +278,7 @@ Strain 31,ACACT1r,0.0
 Strain 31,PPC,2.0
 Strain 31,PPCK,1.0
 Strain 31,PFL,1.0
-Strain 32,isopentenyl diphosphate(3-),0.0
+Strain 32,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 32,ACCOAC,2.0
 Strain 32,MDH,2.0
 Strain 32,PTAr,0.0
@@ -287,7 +287,7 @@ Strain 32,ACACT1r,2.0
 Strain 32,PPC,2.0
 Strain 32,PPCK,0.0
 Strain 32,PFL,1.0
-Strain 33,isopentenyl diphosphate(3-),0.0
+Strain 33,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 33,ACCOAC,1.0
 Strain 33,MDH,0.0
 Strain 33,PTAr,0.0
@@ -296,7 +296,7 @@ Strain 33,ACACT1r,0.0
 Strain 33,PPC,0.0
 Strain 33,PPCK,1.0
 Strain 33,PFL,0.0
-Strain 34,isopentenyl diphosphate(3-),0.0
+Strain 34,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 34,ACCOAC,0.0
 Strain 34,MDH,0.0
 Strain 34,PTAr,0.0
@@ -305,7 +305,7 @@ Strain 34,ACACT1r,1.0
 Strain 34,PPC,2.0
 Strain 34,PPCK,2.0
 Strain 34,PFL,2.0
-Strain 35,isopentenyl diphosphate(3-),0.0
+Strain 35,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 35,ACCOAC,0.0
 Strain 35,MDH,2.0
 Strain 35,PTAr,2.0
@@ -314,7 +314,7 @@ Strain 35,ACACT1r,0.0
 Strain 35,PPC,1.0
 Strain 35,PPCK,1.0
 Strain 35,PFL,2.0
-Strain 36,isopentenyl diphosphate(3-),0.34802
+Strain 36,3-METHYL-3-BUTEN-1-OL,0.34802
 Strain 36,ACCOAC,2.0
 Strain 36,MDH,0.0
 Strain 36,PTAr,1.0
@@ -323,7 +323,7 @@ Strain 36,ACACT1r,1.0
 Strain 36,PPC,1.0
 Strain 36,PPCK,1.0
 Strain 36,PFL,2.0
-Strain 37,isopentenyl diphosphate(3-),0.0
+Strain 37,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 37,ACCOAC,2.0
 Strain 37,MDH,0.0
 Strain 37,PTAr,2.0
@@ -332,7 +332,7 @@ Strain 37,ACACT1r,2.0
 Strain 37,PPC,0.0
 Strain 37,PPCK,2.0
 Strain 37,PFL,2.0
-Strain 38,isopentenyl diphosphate(3-),0.36575
+Strain 38,3-METHYL-3-BUTEN-1-OL,0.36575
 Strain 38,ACCOAC,1.0
 Strain 38,MDH,0.0
 Strain 38,PTAr,2.0
@@ -341,7 +341,7 @@ Strain 38,ACACT1r,1.0
 Strain 38,PPC,2.0
 Strain 38,PPCK,2.0
 Strain 38,PFL,2.0
-Strain 39,isopentenyl diphosphate(3-),0.08012000000000001
+Strain 39,3-METHYL-3-BUTEN-1-OL,0.08012000000000001
 Strain 39,ACCOAC,2.0
 Strain 39,MDH,0.0
 Strain 39,PTAr,2.0
@@ -350,7 +350,7 @@ Strain 39,ACACT1r,1.0
 Strain 39,PPC,0.0
 Strain 39,PPCK,0.0
 Strain 39,PFL,1.0
-Strain 40,isopentenyl diphosphate(3-),0.10777
+Strain 40,3-METHYL-3-BUTEN-1-OL,0.10777
 Strain 40,ACCOAC,2.0
 Strain 40,MDH,1.0
 Strain 40,PTAr,1.0
@@ -359,7 +359,7 @@ Strain 40,ACACT1r,1.0
 Strain 40,PPC,0.0
 Strain 40,PPCK,1.0
 Strain 40,PFL,1.0
-Strain 41,isopentenyl diphosphate(3-),0.57265
+Strain 41,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 41,ACCOAC,1.0
 Strain 41,MDH,2.0
 Strain 41,PTAr,1.0
@@ -368,7 +368,7 @@ Strain 41,ACACT1r,1.0
 Strain 41,PPC,1.0
 Strain 41,PPCK,1.0
 Strain 41,PFL,2.0
-Strain 42,isopentenyl diphosphate(3-),0.0
+Strain 42,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 42,ACCOAC,2.0
 Strain 42,MDH,1.0
 Strain 42,PTAr,2.0
@@ -377,7 +377,7 @@ Strain 42,ACACT1r,0.0
 Strain 42,PPC,2.0
 Strain 42,PPCK,0.0
 Strain 42,PFL,2.0
-Strain 43,isopentenyl diphosphate(3-),0.0
+Strain 43,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 43,ACCOAC,0.0
 Strain 43,MDH,1.0
 Strain 43,PTAr,1.0
@@ -386,7 +386,7 @@ Strain 43,ACACT1r,0.0
 Strain 43,PPC,2.0
 Strain 43,PPCK,1.0
 Strain 43,PFL,2.0
-Strain 44,isopentenyl diphosphate(3-),0.0
+Strain 44,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 44,ACCOAC,1.0
 Strain 44,MDH,0.0
 Strain 44,PTAr,2.0
@@ -395,7 +395,7 @@ Strain 44,ACACT1r,0.0
 Strain 44,PPC,0.0
 Strain 44,PPCK,2.0
 Strain 44,PFL,2.0
-Strain 45,isopentenyl diphosphate(3-),0.0
+Strain 45,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 45,ACCOAC,0.0
 Strain 45,MDH,1.0
 Strain 45,PTAr,0.0
@@ -404,7 +404,7 @@ Strain 45,ACACT1r,1.0
 Strain 45,PPC,1.0
 Strain 45,PPCK,2.0
 Strain 45,PFL,0.0
-Strain 46,isopentenyl diphosphate(3-),0.57265
+Strain 46,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 46,ACCOAC,2.0
 Strain 46,MDH,2.0
 Strain 46,PTAr,2.0
@@ -413,7 +413,7 @@ Strain 46,ACACT1r,2.0
 Strain 46,PPC,1.0
 Strain 46,PPCK,1.0
 Strain 46,PFL,1.0
-Strain 47,isopentenyl diphosphate(3-),0.0
+Strain 47,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 47,ACCOAC,0.0
 Strain 47,MDH,0.0
 Strain 47,PTAr,2.0
@@ -422,7 +422,7 @@ Strain 47,ACACT1r,0.0
 Strain 47,PPC,0.0
 Strain 47,PPCK,1.0
 Strain 47,PFL,1.0
-Strain 48,isopentenyl diphosphate(3-),0.57265
+Strain 48,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 48,ACCOAC,2.0
 Strain 48,MDH,1.0
 Strain 48,PTAr,1.0
@@ -431,7 +431,7 @@ Strain 48,ACACT1r,1.0
 Strain 48,PPC,2.0
 Strain 48,PPCK,1.0
 Strain 48,PFL,1.0
-Strain 49,isopentenyl diphosphate(3-),0.57265
+Strain 49,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 49,ACCOAC,1.0
 Strain 49,MDH,2.0
 Strain 49,PTAr,1.0
@@ -440,7 +440,7 @@ Strain 49,ACACT1r,2.0
 Strain 49,PPC,1.0
 Strain 49,PPCK,0.0
 Strain 49,PFL,1.0
-Strain 50,isopentenyl diphosphate(3-),0.0
+Strain 50,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 50,ACCOAC,0.0
 Strain 50,MDH,1.0
 Strain 50,PTAr,1.0
@@ -449,7 +449,7 @@ Strain 50,ACACT1r,2.0
 Strain 50,PPC,0.0
 Strain 50,PPCK,1.0
 Strain 50,PFL,0.0
-Strain 51,isopentenyl diphosphate(3-),0.0
+Strain 51,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 51,ACCOAC,2.0
 Strain 51,MDH,1.0
 Strain 51,PTAr,2.0
@@ -458,7 +458,7 @@ Strain 51,ACACT1r,0.0
 Strain 51,PPC,0.0
 Strain 51,PPCK,2.0
 Strain 51,PFL,0.0
-Strain 52,isopentenyl diphosphate(3-),0.0
+Strain 52,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 52,ACCOAC,2.0
 Strain 52,MDH,1.0
 Strain 52,PTAr,1.0
@@ -467,7 +467,7 @@ Strain 52,ACACT1r,0.0
 Strain 52,PPC,2.0
 Strain 52,PPCK,2.0
 Strain 52,PFL,1.0
-Strain 53,isopentenyl diphosphate(3-),0.45626000000000005
+Strain 53,3-METHYL-3-BUTEN-1-OL,0.45626000000000005
 Strain 53,ACCOAC,2.0
 Strain 53,MDH,2.0
 Strain 53,PTAr,0.0
@@ -476,7 +476,7 @@ Strain 53,ACACT1r,1.0
 Strain 53,PPC,1.0
 Strain 53,PPCK,2.0
 Strain 53,PFL,1.0
-Strain 54,isopentenyl diphosphate(3-),0.08441
+Strain 54,3-METHYL-3-BUTEN-1-OL,0.08441
 Strain 54,ACCOAC,1.0
 Strain 54,MDH,0.0
 Strain 54,PTAr,1.0
@@ -485,7 +485,7 @@ Strain 54,ACACT1r,1.0
 Strain 54,PPC,0.0
 Strain 54,PPCK,2.0
 Strain 54,PFL,2.0
-Strain 55,isopentenyl diphosphate(3-),0.0
+Strain 55,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 55,ACCOAC,0.0
 Strain 55,MDH,1.0
 Strain 55,PTAr,1.0
@@ -494,7 +494,7 @@ Strain 55,ACACT1r,2.0
 Strain 55,PPC,0.0
 Strain 55,PPCK,0.0
 Strain 55,PFL,1.0
-Strain 56,isopentenyl diphosphate(3-),0.0
+Strain 56,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 56,ACCOAC,0.0
 Strain 56,MDH,2.0
 Strain 56,PTAr,1.0
@@ -503,7 +503,7 @@ Strain 56,ACACT1r,0.0
 Strain 56,PPC,1.0
 Strain 56,PPCK,1.0
 Strain 56,PFL,0.0
-Strain 57,isopentenyl diphosphate(3-),0.0
+Strain 57,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 57,ACCOAC,0.0
 Strain 57,MDH,0.0
 Strain 57,PTAr,0.0
@@ -512,7 +512,7 @@ Strain 57,ACACT1r,1.0
 Strain 57,PPC,1.0
 Strain 57,PPCK,0.0
 Strain 57,PFL,1.0
-Strain 58,isopentenyl diphosphate(3-),0.11345999999999999
+Strain 58,3-METHYL-3-BUTEN-1-OL,0.11345999999999999
 Strain 58,ACCOAC,1.0
 Strain 58,MDH,2.0
 Strain 58,PTAr,0.0
@@ -521,7 +521,7 @@ Strain 58,ACACT1r,2.0
 Strain 58,PPC,0.0
 Strain 58,PPCK,0.0
 Strain 58,PFL,1.0
-Strain 59,isopentenyl diphosphate(3-),0.0
+Strain 59,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 59,ACCOAC,0.0
 Strain 59,MDH,2.0
 Strain 59,PTAr,1.0
@@ -530,7 +530,7 @@ Strain 59,ACACT1r,1.0
 Strain 59,PPC,1.0
 Strain 59,PPCK,0.0
 Strain 59,PFL,2.0
-Strain 60,isopentenyl diphosphate(3-),0.0
+Strain 60,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 60,ACCOAC,0.0
 Strain 60,MDH,1.0
 Strain 60,PTAr,0.0
@@ -539,7 +539,7 @@ Strain 60,ACACT1r,1.0
 Strain 60,PPC,1.0
 Strain 60,PPCK,0.0
 Strain 60,PFL,1.0
-Strain 61,isopentenyl diphosphate(3-),0.0
+Strain 61,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 61,ACCOAC,1.0
 Strain 61,MDH,0.0
 Strain 61,PTAr,0.0
@@ -548,7 +548,7 @@ Strain 61,ACACT1r,2.0
 Strain 61,PPC,2.0
 Strain 61,PPCK,2.0
 Strain 61,PFL,1.0
-Strain 62,isopentenyl diphosphate(3-),0.55273
+Strain 62,3-METHYL-3-BUTEN-1-OL,0.55273
 Strain 62,ACCOAC,1.0
 Strain 62,MDH,2.0
 Strain 62,PTAr,1.0
@@ -557,7 +557,7 @@ Strain 62,ACACT1r,1.0
 Strain 62,PPC,2.0
 Strain 62,PPCK,0.0
 Strain 62,PFL,0.0
-Strain 63,isopentenyl diphosphate(3-),0.0
+Strain 63,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 63,ACCOAC,1.0
 Strain 63,MDH,0.0
 Strain 63,PTAr,1.0
@@ -566,7 +566,7 @@ Strain 63,ACACT1r,1.0
 Strain 63,PPC,0.0
 Strain 63,PPCK,2.0
 Strain 63,PFL,1.0
-Strain 64,isopentenyl diphosphate(3-),0.0
+Strain 64,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 64,ACCOAC,1.0
 Strain 64,MDH,2.0
 Strain 64,PTAr,0.0
@@ -575,7 +575,7 @@ Strain 64,ACACT1r,2.0
 Strain 64,PPC,2.0
 Strain 64,PPCK,2.0
 Strain 64,PFL,0.0
-Strain 65,isopentenyl diphosphate(3-),0.0
+Strain 65,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 65,ACCOAC,1.0
 Strain 65,MDH,0.0
 Strain 65,PTAr,1.0
@@ -584,7 +584,7 @@ Strain 65,ACACT1r,0.0
 Strain 65,PPC,1.0
 Strain 65,PPCK,1.0
 Strain 65,PFL,0.0
-Strain 66,isopentenyl diphosphate(3-),0.0
+Strain 66,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 66,ACCOAC,0.0
 Strain 66,MDH,0.0
 Strain 66,PTAr,2.0
@@ -593,7 +593,7 @@ Strain 66,ACACT1r,2.0
 Strain 66,PPC,0.0
 Strain 66,PPCK,1.0
 Strain 66,PFL,1.0
-Strain 67,isopentenyl diphosphate(3-),0.57265
+Strain 67,3-METHYL-3-BUTEN-1-OL,0.57265
 Strain 67,ACCOAC,2.0
 Strain 67,MDH,2.0
 Strain 67,PTAr,1.0
@@ -602,7 +602,7 @@ Strain 67,ACACT1r,1.0
 Strain 67,PPC,1.0
 Strain 67,PPCK,0.0
 Strain 67,PFL,1.0
-Strain 68,isopentenyl diphosphate(3-),0.0
+Strain 68,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 68,ACCOAC,2.0
 Strain 68,MDH,1.0
 Strain 68,PTAr,0.0
@@ -611,7 +611,7 @@ Strain 68,ACACT1r,2.0
 Strain 68,PPC,1.0
 Strain 68,PPCK,1.0
 Strain 68,PFL,2.0
-Strain 69,isopentenyl diphosphate(3-),0.0
+Strain 69,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 69,ACCOAC,2.0
 Strain 69,MDH,0.0
 Strain 69,PTAr,1.0
@@ -620,7 +620,7 @@ Strain 69,ACACT1r,0.0
 Strain 69,PPC,2.0
 Strain 69,PPCK,2.0
 Strain 69,PFL,0.0
-Strain 70,isopentenyl diphosphate(3-),0.0
+Strain 70,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 70,ACCOAC,0.0
 Strain 70,MDH,2.0
 Strain 70,PTAr,0.0
@@ -629,7 +629,7 @@ Strain 70,ACACT1r,1.0
 Strain 70,PPC,1.0
 Strain 70,PPCK,1.0
 Strain 70,PFL,0.0
-Strain 71,isopentenyl diphosphate(3-),0.0
+Strain 71,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 71,ACCOAC,0.0
 Strain 71,MDH,1.0
 Strain 71,PTAr,2.0
@@ -638,7 +638,7 @@ Strain 71,ACACT1r,0.0
 Strain 71,PPC,1.0
 Strain 71,PPCK,2.0
 Strain 71,PFL,2.0
-Strain 72,isopentenyl diphosphate(3-),0.36721
+Strain 72,3-METHYL-3-BUTEN-1-OL,0.36721
 Strain 72,ACCOAC,1.0
 Strain 72,MDH,0.0
 Strain 72,PTAr,2.0
@@ -647,7 +647,7 @@ Strain 72,ACACT1r,1.0
 Strain 72,PPC,1.0
 Strain 72,PPCK,2.0
 Strain 72,PFL,0.0
-Strain 73,isopentenyl diphosphate(3-),0.10980999999999999
+Strain 73,3-METHYL-3-BUTEN-1-OL,0.10980999999999999
 Strain 73,ACCOAC,2.0
 Strain 73,MDH,2.0
 Strain 73,PTAr,2.0
@@ -656,7 +656,7 @@ Strain 73,ACACT1r,1.0
 Strain 73,PPC,0.0
 Strain 73,PPCK,1.0
 Strain 73,PFL,2.0
-Strain 74,isopentenyl diphosphate(3-),0.0
+Strain 74,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 74,ACCOAC,0.0
 Strain 74,MDH,2.0
 Strain 74,PTAr,1.0
@@ -665,7 +665,7 @@ Strain 74,ACACT1r,1.0
 Strain 74,PPC,1.0
 Strain 74,PPCK,1.0
 Strain 74,PFL,0.0
-Strain 75,isopentenyl diphosphate(3-),0.10980999999999999
+Strain 75,3-METHYL-3-BUTEN-1-OL,0.10980999999999999
 Strain 75,ACCOAC,2.0
 Strain 75,MDH,1.0
 Strain 75,PTAr,2.0
@@ -674,7 +674,7 @@ Strain 75,ACACT1r,2.0
 Strain 75,PPC,0.0
 Strain 75,PPCK,2.0
 Strain 75,PFL,2.0
-Strain 76,isopentenyl diphosphate(3-),0.08573
+Strain 76,3-METHYL-3-BUTEN-1-OL,0.08573
 Strain 76,ACCOAC,1.0
 Strain 76,MDH,0.0
 Strain 76,PTAr,2.0
@@ -683,7 +683,7 @@ Strain 76,ACACT1r,2.0
 Strain 76,PPC,0.0
 Strain 76,PPCK,0.0
 Strain 76,PFL,0.0
-Strain 77,isopentenyl diphosphate(3-),0.0
+Strain 77,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 77,ACCOAC,0.0
 Strain 77,MDH,2.0
 Strain 77,PTAr,0.0
@@ -692,7 +692,7 @@ Strain 77,ACACT1r,1.0
 Strain 77,PPC,1.0
 Strain 77,PPCK,2.0
 Strain 77,PFL,2.0
-Strain 78,isopentenyl diphosphate(3-),0.45292
+Strain 78,3-METHYL-3-BUTEN-1-OL,0.45292
 Strain 78,ACCOAC,2.0
 Strain 78,MDH,1.0
 Strain 78,PTAr,0.0
@@ -701,7 +701,7 @@ Strain 78,ACACT1r,1.0
 Strain 78,PPC,1.0
 Strain 78,PPCK,1.0
 Strain 78,PFL,2.0
-Strain 79,isopentenyl diphosphate(3-),0.0
+Strain 79,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 79,ACCOAC,2.0
 Strain 79,MDH,1.0
 Strain 79,PTAr,0.0
@@ -710,7 +710,7 @@ Strain 79,ACACT1r,0.0
 Strain 79,PPC,0.0
 Strain 79,PPCK,2.0
 Strain 79,PFL,1.0
-Strain 80,isopentenyl diphosphate(3-),0.49642
+Strain 80,3-METHYL-3-BUTEN-1-OL,0.49642
 Strain 80,ACCOAC,1.0
 Strain 80,MDH,1.0
 Strain 80,PTAr,0.0
@@ -719,7 +719,7 @@ Strain 80,ACACT1r,1.0
 Strain 80,PPC,1.0
 Strain 80,PPCK,1.0
 Strain 80,PFL,0.0
-Strain 81,isopentenyl diphosphate(3-),0.0
+Strain 81,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 81,ACCOAC,0.0
 Strain 81,MDH,2.0
 Strain 81,PTAr,0.0
@@ -728,7 +728,7 @@ Strain 81,ACACT1r,0.0
 Strain 81,PPC,0.0
 Strain 81,PPCK,0.0
 Strain 81,PFL,0.0
-Strain 82,isopentenyl diphosphate(3-),0.0
+Strain 82,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 82,ACCOAC,1.0
 Strain 82,MDH,2.0
 Strain 82,PTAr,0.0
@@ -737,7 +737,7 @@ Strain 82,ACACT1r,0.0
 Strain 82,PPC,0.0
 Strain 82,PPCK,0.0
 Strain 82,PFL,0.0
-Strain 83,isopentenyl diphosphate(3-),0.0
+Strain 83,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 83,ACCOAC,0.0
 Strain 83,MDH,0.0
 Strain 83,PTAr,0.0
@@ -746,7 +746,7 @@ Strain 83,ACACT1r,1.0
 Strain 83,PPC,0.0
 Strain 83,PPCK,2.0
 Strain 83,PFL,1.0
-Strain 84,isopentenyl diphosphate(3-),0.0
+Strain 84,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 84,ACCOAC,2.0
 Strain 84,MDH,1.0
 Strain 84,PTAr,2.0
@@ -755,7 +755,7 @@ Strain 84,ACACT1r,0.0
 Strain 84,PPC,1.0
 Strain 84,PPCK,2.0
 Strain 84,PFL,2.0
-Strain 85,isopentenyl diphosphate(3-),0.41341000000000006
+Strain 85,3-METHYL-3-BUTEN-1-OL,0.41341000000000006
 Strain 85,ACCOAC,2.0
 Strain 85,MDH,0.0
 Strain 85,PTAr,2.0
@@ -764,7 +764,7 @@ Strain 85,ACACT1r,2.0
 Strain 85,PPC,1.0
 Strain 85,PPCK,2.0
 Strain 85,PFL,2.0
-Strain 86,isopentenyl diphosphate(3-),0.0
+Strain 86,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 86,ACCOAC,1.0
 Strain 86,MDH,0.0
 Strain 86,PTAr,2.0
@@ -773,7 +773,7 @@ Strain 86,ACACT1r,0.0
 Strain 86,PPC,1.0
 Strain 86,PPCK,0.0
 Strain 86,PFL,0.0
-Strain 87,isopentenyl diphosphate(3-),0.0
+Strain 87,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 87,ACCOAC,2.0
 Strain 87,MDH,1.0
 Strain 87,PTAr,2.0
@@ -782,7 +782,7 @@ Strain 87,ACACT1r,0.0
 Strain 87,PPC,1.0
 Strain 87,PPCK,0.0
 Strain 87,PFL,1.0
-Strain 88,isopentenyl diphosphate(3-),0.0
+Strain 88,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 88,ACCOAC,1.0
 Strain 88,MDH,0.0
 Strain 88,PTAr,0.0
@@ -791,7 +791,7 @@ Strain 88,ACACT1r,0.0
 Strain 88,PPC,2.0
 Strain 88,PPCK,1.0
 Strain 88,PFL,1.0
-Strain 89,isopentenyl diphosphate(3-),0.0
+Strain 89,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 89,ACCOAC,0.0
 Strain 89,MDH,2.0
 Strain 89,PTAr,1.0
@@ -800,7 +800,7 @@ Strain 89,ACACT1r,2.0
 Strain 89,PPC,2.0
 Strain 89,PPCK,0.0
 Strain 89,PFL,2.0
-Strain 90,isopentenyl diphosphate(3-),0.0
+Strain 90,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 90,ACCOAC,0.0
 Strain 90,MDH,1.0
 Strain 90,PTAr,1.0
@@ -809,7 +809,7 @@ Strain 90,ACACT1r,2.0
 Strain 90,PPC,2.0
 Strain 90,PPCK,1.0
 Strain 90,PFL,2.0
-Strain 91,isopentenyl diphosphate(3-),0.0
+Strain 91,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 91,ACCOAC,2.0
 Strain 91,MDH,0.0
 Strain 91,PTAr,0.0
@@ -818,7 +818,7 @@ Strain 91,ACACT1r,0.0
 Strain 91,PPC,2.0
 Strain 91,PPCK,2.0
 Strain 91,PFL,0.0
-Strain 92,isopentenyl diphosphate(3-),0.0
+Strain 92,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 92,ACCOAC,0.0
 Strain 92,MDH,0.0
 Strain 92,PTAr,2.0
@@ -827,7 +827,7 @@ Strain 92,ACACT1r,0.0
 Strain 92,PPC,2.0
 Strain 92,PPCK,0.0
 Strain 92,PFL,2.0
-Strain 93,isopentenyl diphosphate(3-),0.0
+Strain 93,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 93,ACCOAC,1.0
 Strain 93,MDH,2.0
 Strain 93,PTAr,0.0
@@ -836,7 +836,7 @@ Strain 93,ACACT1r,0.0
 Strain 93,PPC,2.0
 Strain 93,PPCK,2.0
 Strain 93,PFL,0.0
-Strain 94,isopentenyl diphosphate(3-),0.0
+Strain 94,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 94,ACCOAC,0.0
 Strain 94,MDH,2.0
 Strain 94,PTAr,0.0
@@ -845,7 +845,7 @@ Strain 94,ACACT1r,0.0
 Strain 94,PPC,2.0
 Strain 94,PPCK,1.0
 Strain 94,PFL,1.0
-Strain 95,isopentenyl diphosphate(3-),0.0
+Strain 95,3-METHYL-3-BUTEN-1-OL,0.0
 Strain 95,ACCOAC,0.0
 Strain 95,MDH,1.0
 Strain 95,PTAr,2.0
@@ -854,7 +854,7 @@ Strain 95,ACACT1r,1.0
 Strain 95,PPC,1.0
 Strain 95,PPCK,0.0
 Strain 95,PFL,2.0
-WT,isopentenyl diphosphate(3-),0.46188
+WT,3-METHYL-3-BUTEN-1-OL,0.46188
 WT,ACCOAC,1.0
 WT,MDH,1.0
 WT,PTAr,1.0
