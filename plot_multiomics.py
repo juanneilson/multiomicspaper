@@ -67,67 +67,45 @@ def plot_DO_extmets(od,ext_metabolites):
     ax[1].set_ylabel("Concentration [mM]")
     
     
-def predictions_vs_observations(df, errorbars_flag=True, xlim=None, ylim=None):
-    """Function addapted from the ART package.
-    
-    Plots the predictions of a machine learning model.
+def pred_vs_actual(df):
+    """Plots the predictions of a machine learning model.
 
-    Create a scatter plot of machine learning model predictions vs.
-    actual values from the data set along with a diagonal line showing
-    where perfect agreement would be.
+    Create a bar plot of machine learning model predictions vs.
+    actual values from the data set along with a 95% credible interval.
     """
 
-    
     plt.style.use('seaborn-darkgrid')
 
-    fontsize = 20
+    fontsize = 16
 
-    predicted_mean = df['Mean predicted Isoprenol [mM]']
-    predicted_std = df['SD Isoprenol [mM]']
+    predicted_mean = df['Mean predicted Isoprenol [mM]'][0]
+    predicted_std = df['SD Isoprenol [mM]'][0]
 
-    observed = df['Actual Isoprenol [mM]']
-
-    fig, ax = plt.subplots(figsize=(7, 7))
-
-    # Plot Scatter Plot
-    if errorbars_flag:
-        plt.errorbar(observed, predicted_mean, yerr=1.96*predicted_std, fmt='ko',
-                     ecolor='gray', elinewidth=1, alpha=0.8)
-    else:
-        plt.scatter(observed, predicted_mean, color='k')
-        
-
-    # TODO: CALCULATE R^2        
-#     r2 = round(model_df['$R^2$']['Ensemble Model'], 2)
-#     mae_score = round(model_df['MAE']['Ensemble Model'], 2)
-#     ax.set_title(f'$R^2$={r2}, MAE={mae_score}', fontsize=fontsize)
+    observed = df['Actual Isoprenol [mM]'][0]
     
-    ax.set_xlabel('Observations', fontsize=fontsize)
-    ax.set_ylabel('Predictions', fontsize=fontsize)
+    x_label = ['predicted', 'actual']
+    x_pos = np.arange(len(x))
+    width = 0.6  # the width of the bars
 
-    lims = [np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
-            np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
-            ]
+    fig, ax = plt.subplots(figsize=(5, 5))
 
-    if xlim is None:
-        ax.set_xlim(lims)
-    else:
-        ax.set_xlim(xlim)
+    ax.bar(0, predicted_mean,  yerr=1.96*predicted_std, width=width, 
+           color='#397479', alpha=0.8, ecolor='#303030', capsize=4)
+    ax.bar(1, observed, width, color='grey', alpha=0.8)
 
-    if ylim is None:
-        ax.set_ylim(lims)
-    else:
-        ax.set_ylim(ylim)
+    plt.xticks(x_pos, x_label)
 
-    lims = [np.min([ax.get_xlim(), ax.get_ylim()]),  # min of both axes
-            np.max([ax.get_xlim(), ax.get_ylim()]),  # max of both axes
-            ]
+    ax.set_ylim([0, 0.7])
 
-    # Plot Diagonal Dashed Line
-    ax.plot(lims, lims, ls='--', color='.8', zorder=0)
+    ax.set_ylabel('Isoprenol [mM]', fontsize=fontsize)
+    ax.set_title('Best recommendation', fontsize=fontsize)
 
     plt.tick_params(axis='both', which='major', labelsize=fontsize)
+
+    # Save the figure and show
     plt.show()
 
-    fig.savefig('../data/ART_predictions_vs_observations_recommendations.png',
+    fig.savefig('../data/ART_prediction_vs_actual_recommendation.png',
                     bbox_inches='tight', transparent=False, dpi=300)
+    
+        
