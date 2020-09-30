@@ -104,3 +104,7 @@ ENV/
 .DS_Store
 /data/.DS_Store
 *.png
+
+# Mics
+generate_omics_data_dev.ipynb
+
