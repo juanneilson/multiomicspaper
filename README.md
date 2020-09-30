@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AgileBioFoundry/multiomicspaper/master?urlpath=https%3A%2F%2Fgithub.com%2FAgileBioFoundry%2Fmultiomicspaper%2Fblob%2Fmaster%2Fnotebooks%2FA_Generate_omics_data_WT.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/AgileBioFoundry/multiomicspaper/master?urlpath=https%3A%2F%2Fgithub.com%2FAgileBioFoundry%2Fmultiomicspaper%2Fblob%2Fmaster%2Fnotebooks%2FA_Generate_omics_data_WT.ipynb
+ 
 # Multimomics paper repo
 
 
