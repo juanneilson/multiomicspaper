@@ -61,7 +61,7 @@ python-libsbml==5.18.0
 python-libsbml-experimental==5.18.0
 pytz==2019.2
 pyzmq==18.1.0
-requests==2.18.4
+requests==2.20.0
 ruamel.yaml==0.16.4
 ruamel.yaml.clib==0.1.2
 scikit-learn==0.21.3
