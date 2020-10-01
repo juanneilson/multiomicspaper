@@ -84,7 +84,7 @@ def pred_vs_actual(df):
     observed = df['Actual Isoprenol [mM]'][0]
     
     x_label = ['predicted', 'actual']
-    x_pos = np.arange(len(x))
+    x_pos = np.arange(len(x_label))
     width = 0.6  # the width of the bars
 
     fig, ax = plt.subplots(figsize=(5, 5))
