@@ -15,3 +15,8 @@ By combining these tools with **Jupyter notebooks** we show how to pinpoint gene
 ## Requirements
 
 Provided notebooks run on two different Jupyter lab kernels, for which we provide a set of requirements in the `kernel_requirements` directory.
+
+
+## License
+
+Code from this repository is available under BSD-3-Clause-LBNL license.
