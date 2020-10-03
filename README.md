@@ -19,4 +19,4 @@ Provided notebooks run on two different Jupyter lab kernels, for which we provid
 
 ## License
 
-Code from this repository is available under BSD-3-Clause-LBNL license.
+Code from this repository is available under the [BSD-3-Clause-LBNL license](https://github.com/AgileBioFoundry/multiomicspaper/blob/master/LICENSE.txt).
